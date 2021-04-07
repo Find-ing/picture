@@ -1,0 +1,11 @@
+ls
+pwd
+cd
+mkdir
+chomd
+rmdir
+cp
+rm
+sort
+vi
+
